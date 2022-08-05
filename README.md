@@ -13,7 +13,7 @@
 <li>React</li>
 </ul><h2>Features</h2>
 <hr><ul>
-<li>Consumo de</li>
+<li>Consumo de API</li>
 </ul><h2>Screenshots</h2>
 <hr><p><img src="https://i.imgur.com/j70yuPV.png" alt=""></p><p><img src="https://i.imgur.com/mJpqqQH.png" alt=""></p><h2>Setup</h2>
 <hr><p>react
