@@ -1,0 +1,43 @@
+.header {
+  box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+  position:sticky;
+  width: 100%;
+  z-index: 100;
+  background: #f8faf6;
+  top: 0;
+  height: 70px;
+}
+
+.header p {
+  padding: 10px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  text-transform: capitalize;
+}
+
+.logo {
+    display: block;
+    max-width: 70px;
+    margin: 0 auto;
+}
+
+.sair{
+  position: absolute;
+    top: 23px;
+    left: 11px;
+    background: green;
+    color: #fff;
+    box-shadow: -3px -3px 0px 1px rgb(253 148 0);
+}
+
+
+@media (max-width: 769px) {
+  .header p{
+    padding: 10px; 
+    position: sticky;
+    margin: -1px;
+    
+  }
+  
+}
